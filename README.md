@@ -4,16 +4,13 @@
 
 Essa pequena API foi desenvolvida durante a semana mergulho spring rest da algaworks, ela simula uma API de uma aplicativo de delivery e possui ações CRUD
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+## Requisições Postman
+![Web 1](https://github.com/cruzvindev/mergulhospringrest/blob/main/Captura%20de%20tela%202023-01-27%20213528.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/cruzvindev/mergulhospringrest/blob/main/Captura%20de%20tela%202023-01-27%20211545.png)
 
 # Tecnologias utilizadas
 ## Back end
